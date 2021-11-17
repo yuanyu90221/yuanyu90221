@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gson's Current Github Status
+# 😄 Gson's Current Github Status
 
 ![Gson's github stats](https://github-readme-stats.vercel.app/api?username=yuanyu90221&layout=compact&theme=vue-dark)
 
